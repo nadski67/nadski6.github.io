@@ -1,0 +1,80 @@
+body{
+  color: crimson;
+  background-color: blanchedalmond;
+  margin: 10px 50px 10px;
+}
+
+h1 {
+  color: blanchedalmond;
+  background-color: crimson;
+  text-align: center;
+  font-family: Georgia;
+  border-bottom: 10px solid maroon;
+  font-style: italic;
+}
+
+h2 {
+  color: crimson;
+  font-family: serif;
+  word-spacing: 2px;
+  line-height: 100%;
+  text-align: justify;
+  font-size: 25px;
+}
+
+p {
+  color: crimson;
+  font-family: Georgia;
+  border-style: groove;
+  border-color: red yellow blue;
+  margin: 10px 35px 35px 10px;
+  line-height: 100%;
+  font-size: 24px;
+  line-height: 34px;
+  padding:  10px 20px;
+  border-radius: 30px 0px 30px 0px;
+}
+
+a {
+  color: crimson;
+}
+
+.links:hover {
+  background-color: #E8FFF0;
+}
+
+.antwoord {
+  background-color: blanchedalmond;
+  color: blanchedalmond;
+}
+
+.antwoord:hover {
+  color: blanchedalmond;
+  background-color: crimson;
+}
+
+#uitleg {
+  font-family: "Times New Roman";
+  font-size: 130%;
+
+}
+
+.geschiedenis {
+   color: firebrick;
+   font-weight: bold;
+   font-size: 105%;
+}
+
+ul li.navigatie {
+  display: inline-block;
+  background-color: moccasin;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+ul li:hover {
+  background-color: lavender;
+}
